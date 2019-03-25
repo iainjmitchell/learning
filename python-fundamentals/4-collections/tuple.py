@@ -1,5 +1,3 @@
-# Tuple
-
 my_tuple = ("hello", 12, "world")
 print(my_tuple)
 

@@ -12,3 +12,4 @@ scheme, _, address = url.partition("://")
 
 import math
 print("Math stuff: {math.pi}".format(math=math)) # N.B. Passing objects to format
+print("Math stuff: {math.pi:.3F}".format(math=math)) # N.B. Formating
