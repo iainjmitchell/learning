@@ -40,3 +40,5 @@ print(taste_ptc.issuperset(smell_hcn)) # all the people in the second set exist 
 
 print(a_blood.isdisjoint(o_blood)) # no members in common between sets
 
+
+
